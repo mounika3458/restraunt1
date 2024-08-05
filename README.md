@@ -1,2 +1,2 @@
-# restraunt1
-this is my page 
+ # restraunt1 on my github
+i created this project by using html css and javascript
